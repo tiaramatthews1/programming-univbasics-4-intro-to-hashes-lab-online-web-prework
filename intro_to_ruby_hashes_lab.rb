@@ -23,5 +23,5 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-{:count => 6}
+{:count => 5}
 end
