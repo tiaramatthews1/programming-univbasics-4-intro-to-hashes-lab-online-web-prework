@@ -1,5 +1,5 @@
-def new_hash
-  new_hash
+def new_hash(array)
+  new_hash(array)
 end
 
 def my_hash
