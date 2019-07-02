@@ -4,8 +4,8 @@ end
 
 def my_hash
 {
-   => "value",
-  "another_key" => "another value"
+  "food" => , "sandwich"
+  "drinks" => "water"
 }
 end
 
