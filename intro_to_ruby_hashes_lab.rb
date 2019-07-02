@@ -3,7 +3,10 @@ def new_hash
 end
 
 def my_hash
-  
+  new_hash = {
+  :created => ,
+  :message => 
+}
 end
 
 def pioneer
