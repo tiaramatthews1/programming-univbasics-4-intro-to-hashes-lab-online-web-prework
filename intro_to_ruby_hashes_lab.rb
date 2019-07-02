@@ -1,4 +1,4 @@
-def new_hash
+def new_hash(array)
   new_hash {}
 end
 
