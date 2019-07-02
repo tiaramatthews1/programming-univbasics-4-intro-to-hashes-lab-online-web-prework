@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  
+  {:name => "John Henry", :occupation => "Steel-driving man"}
 end
 
 def id_generator
