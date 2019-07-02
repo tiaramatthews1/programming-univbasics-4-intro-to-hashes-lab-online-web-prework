@@ -15,7 +15,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
- {:nam=> 2} 
+ {key => value} 
 end
 
 def read_from_hash(hash, key)
