@@ -19,7 +19,7 @@ def my_hash_creator(key, value)
 end
 
 def read_from_hash(hash, key)
- ready_from_hash [:"Steve"]
+ read_from_hash [:"Steve"]
 end
 
 def update_counting_hash(hash, key)
