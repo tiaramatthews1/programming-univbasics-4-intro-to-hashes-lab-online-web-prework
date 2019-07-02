@@ -4,7 +4,7 @@ end
 
 def my_hash
 {
-  "key" => "value",
+   => "value",
   "another_key" => "another value"
 }
 end
