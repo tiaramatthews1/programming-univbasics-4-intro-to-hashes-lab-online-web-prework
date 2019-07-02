@@ -3,9 +3,7 @@ def new_hash
 end
 
 def my_hash
-{
-  "food" => , "sandwich"
-  "drinks" => "water"
+{"food" => , "sandwich" "drinks" => "water"
 }
 end
 
