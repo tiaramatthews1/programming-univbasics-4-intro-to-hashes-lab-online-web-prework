@@ -23,5 +23,5 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-
+shipping_manifest["oil painting"] + 1
 end
